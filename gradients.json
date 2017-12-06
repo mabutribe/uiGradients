@@ -1,5 +1,9 @@
 [
-     {
+    {
+      "name": "Tribe",
+      "colors": ["#005a70", "#2a9d8f", "#f4a261"]
+    },
+    {
         "name": "Mango",
         "colors": ["#ffe259", "#ffa751"]
     },
